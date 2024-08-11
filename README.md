@@ -1,2 +1,2 @@
-# assets
+# 🦄 Magical assets
 Banners, imagery and other assets for Sparkles.
